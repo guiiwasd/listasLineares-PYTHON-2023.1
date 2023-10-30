@@ -1,2 +1,3 @@
-# Listas-Lineares
-Código de Listas Lineares - Pilha e Fila - 2023.1 
+# Listas-Lineares 
+ESTRUTURA DE DADOS
+Código de Listas Lineares realizado em aula, juntamente ao professor @marceloarantes19.
